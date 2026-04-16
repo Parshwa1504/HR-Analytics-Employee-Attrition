@@ -4,7 +4,8 @@
 ---
 ## Live Dashboard
 
-[View Interactive Tableau Dashboard]((https://public.tableau.com/app/profile/parshwa.gandhi/viz/HRAnalyticsEmployeeAttritionAnalysis/Dashboard1))
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/parshwa.gandhi/viz/HRAnalyticsEmployeeAttritionAnalysis/Dashboard1)
+[HR Analytics: Employee Attrition Analysis — Tableau Public](https://public.tableau.com/app/profile/parshwa.gandhi/viz/HRAnalyticsEmployeeAttritionAnalysis/Dashboard1)
 
 ---
 
