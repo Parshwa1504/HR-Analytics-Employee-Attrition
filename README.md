@@ -2,6 +2,11 @@
 ### Who is leaving, why, and which active employees are at risk next?
 
 ---
+## Live Dashboard
+
+[View Interactive Tableau Dashboard]((https://public.tableau.com/app/profile/parshwa.gandhi/viz/HRAnalyticsEmployeeAttritionAnalysis/Dashboard1))
+
+---
 
 ## Business Problem
 
