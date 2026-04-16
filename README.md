@@ -7,8 +7,8 @@
 
 A company is experiencing employee attrition and needs to understand what is
 driving it. HR leadership wants to know which departments and roles are most
-affected, what factors predict whether an employee will leave, and — most
-importantly — which currently active employees are most likely to resign next.
+affected, what factors predict whether an employee will leave, and most
+importantly which currently active employees are most likely to resign next.
 
 The goal is to make a data-driven case for targeted retention interventions
 before at-risk employees decide to leave.
@@ -149,7 +149,7 @@ The interactive dashboard includes:
 ## Business Recommendations
 
 ### Recommendation 1 — Eliminate Mandatory Overtime for Sales Representatives
-Sales Representatives have a 39.76% attrition rate — nearly 2.5x the company
+Sales Representatives have a 39.76% attrition rate nearly 2.5x the company
 average. OverTime is the single strongest predictor of attrition in the model
 (coefficient: +0.70).
 
@@ -158,7 +158,7 @@ headcount to distribute workload. Retaining even 10 of the 33 who leave annually
 saves approximately **$330K** in replacement costs (est. $33K per hire).
 
 ### Recommendation 2 — Build a Structured 90-Day Onboarding Program
-Employees with 0–2 years tenure churn at 29.82% — nearly double the company
+Employees with 0–2 years tenure churn at 29.82% nearly double the company
 average. The first two years are the highest-risk window.
 
 **Action:** Assign every new hire a senior mentor for the first 90 days, conduct
@@ -166,7 +166,7 @@ average. The first two years are the highest-risk window.
 12-month mark.
 
 ### Recommendation 3 — Raise Base Salary for Low-Band Employees
-Employees earning below $3K/month churn at 28.61% vs 8.90% for top earners —
+Employees earning below $3K/month churn at 28.61% vs 8.90% for top earners
 a 3.2x gap. MonthlyIncome is a top negative coefficient in the model (higher
 income = lower attrition risk).
 
